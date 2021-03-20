@@ -1,7 +1,12 @@
-### Hi there 👋
-
+# Hi! 👋 I'm Julia Ding
+I'm a high school student 🏫 located in Austin, Texas interested in all things STEM, more specifically computer science 👩🏻‍💻 and mathematics 📐. I love promoting STEM 💻 to the community! In my free time, I enjoy playing the cello 🎻, puzzling out fun math problems, and making bad puns.
 <!--
-**julialding/julialding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+* Java
+* C++
+* Python
+* HTML/CSS/JS/PHP
+
 
 Here are some ideas to get you started:
 
