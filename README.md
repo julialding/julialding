@@ -1,5 +1,5 @@
 # Hi! 👋 I'm Julia Ding.
-I'm a high school sophomore from Austin, Texas interested in all things STEM, more specifically computer science 👩🏻‍💻 and mathematics 📐. I'm passionate about bridging educational and gender gaps and enjoy giving back to the community! In my free time, I enjoy playing the cello 🎻, puzzling out fun math problems, competing in hackathons (check out a winning submission [here](https://github.com/julialding/oratio) :eyes:), and making bad puns.
+I'm a high school junior from Austin, Texas interested in all things STEM, more specifically computer science 👩🏻‍💻 and mathematics 📐. I'm passionate about bridging educational and gender gaps and enjoy giving back to the community! In my free time, I enjoy playing the cello 🎻, puzzling out fun math problems, competing in hackathons (check out a winning submission [here](https://github.com/julialding/oratio) :eyes:), and making bad puns.
 
 Currently, you can find me leading a [Hack Club](https://hackclub.com) and serving as one of 16 elected officers school-wide on [student council](http://lasastuco.org/).
 
