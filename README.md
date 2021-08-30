@@ -4,8 +4,6 @@ I'm a high school junior from Austin, Texas interested in all things STEM, more 
 Currently, you can find me leading a [Hack Club](https://hackclub.com) and serving as one of 16 elected officers school-wide on [student council](http://lasastuco.org/).
 
 ![](https://komarev.com/ghpvc/?username=julialding&style=flat&color=99E5B5)
-
-***bio still a work-in-progress!***
 <!--
 ## Skills
 * Java
