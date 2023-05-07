@@ -1,25 +1,4 @@
-# Hi! 👋 I'm Julia.
-I'm a high school senior from Austin, Texas interested in all things STEM, more specifically computer science 👩🏻‍💻 and mathematics 📐. I'm passionate about bridging educational and gender gaps and enjoy giving back to the community! In my free time, I enjoy playing the cello 🎻, puzzling out fun math problems, competing in hackathons, and making bad puns.
-
-Currently, you can find me leading a [Hack Club](https://hackclub.com) and serving as one of 16 elected officers school-wide on [student council](http://lasastuco.org/).
-
-![](https://komarev.com/ghpvc/?username=julialding&style=flat&color=99E5B5)
-<!--
-## Skills
-* Java
-* C++
-* Python
-* HTML/CSS/JS/PHP
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 👋 I'm Julia, a software engineer and incoming computer science student at Columbia University.
+* 📂 I enjoy [exploring](https://arxiv.org/abs/2302.0438) the intersection of math & CS. Previously, I interned at [Fiveable](https://fiveable.me).
+* 🎲 As an avid Hack Clubber and puzzle enthusiast, I'm always up for a game of Word Hunt, Set, or ERS.
+* 📩 Reach out: [LinkedIn](https://linkedin.com/in/julialding) | [juliading.dev](www.juliading.dev)
